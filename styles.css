@@ -164,7 +164,7 @@ body {
 
     .sidebar {
         width: auto;
-        height: 100vh;
+        height: 2400px;
         position: relative;
         transform: translateY(-100%);
         -webkit-transform: translateY(-100%);
