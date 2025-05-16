@@ -155,7 +155,11 @@ body {
 @media (max-width: 768px) {
     .profile {
         font-size: 1em;
-        margin-bottom: 10px;
+    }
+
+    .about {
+        margin-top: 10px;
+        margin-bottom: 20px;
     }
 
     .contact{
