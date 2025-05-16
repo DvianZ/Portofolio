@@ -163,7 +163,7 @@ body {
 
     .sidebar {
         width: auto;
-        height: 2400px;
+        height: 750px;
         position: relative;
         transform: translateY(-100%);
         -webkit-transform: translateY(-100%);
@@ -183,7 +183,7 @@ body {
     .sidebar img {
         width: 80px;
         height: 80px;
-        margin-top: 50px;
+        margin-top: 20px;
     }
 
     .content {
