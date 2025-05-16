@@ -190,7 +190,7 @@ body {
     .content {
         margin-left: 0;
     }
-    .project {
+    .project1,.project2 {
         width: 99%;
         margin: 20px auto;
     }
